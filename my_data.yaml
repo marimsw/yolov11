@@ -1,0 +1,6 @@
+train: D:\Marina_rabota\razmetka\images\train
+val: D:\Marina_rabota\razmetka\images\val
+test: D:\Marina_rabota\razmetka\images\test
+
+nc: 4  
+names: ['plate', 'deep_plate', 'kitchen_board','plate2']
